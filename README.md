@@ -29,8 +29,8 @@
 
 Используемые классификаторы:
 
-LogisticRegression
+- LogisticRegression
 
-RandomForestClassifier
+- RandomForestClassifier
 
-CatBoostClassifier
+- CatBoostClassifier
