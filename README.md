@@ -1,5 +1,5 @@
 # Wine_quality
-Wine_quality_Classification 
+
 
 Предсказание качества вина (рейтинг от 0 до 10) по его параметрам:
 
@@ -24,6 +24,8 @@ Wine_quality_Classification
 10 - sulphates
 
 11 - alcohol
+
+
 
 Используемые классификаторы:
 
